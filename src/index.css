@@ -1,0 +1,10 @@
+.rect{
+  height :300px;
+  width: 600px;
+  background-color: aqua;
+}
+.center{
+  position: absolute;
+  left:30%;
+  top:20%;
+}
